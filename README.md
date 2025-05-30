@@ -2,7 +2,8 @@
 
 A modern, responsive chat application built with **React**, **Vite**, and **Tailwind CSS**. It features a sleek interface, dark mode support, smooth animations, and a mobile-first design.
 
----
+![image](https://github.com/user-attachments/assets/3787b5d2-94f0-48d4-b45b-f87548628302)
+
 
 ## ✨ Features
 
