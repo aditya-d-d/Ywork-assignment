@@ -1,12 +1,35 @@
-# React + Vite
+# ChatBot Pro - Responsive Chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive chat application built with **React**, **Vite**, and **Tailwind CSS**. It features a sleek interface, dark mode support, smooth animations, and a mobile-first design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+### Core Features
+- 🎯 **Fixed Navigation Bar** – Always accessible top navbar
+- 📱 **Responsive Design** – Seamless experience on desktop and mobile
+- 🎨 **Modern UI/UX** – Clean, minimal interface with excellent readability
+- 🌙 **Dark Mode** – Toggle between light and dark themes
+- 💬 **Real-time Chat Simulation** – Dummy bot with intelligent responses
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Chat Interface
+- 💭 **Message Bubbles** – Distinct styling for user and bot messages
+- ⏰ **Timestamps** – Shows when each message was sent
+- 📜 **Auto-scroll** – Automatically scrolls to latest messages
+- ✍️ **Expandable Input** – Text area grows with longer messages
+- ⚡ **Send on Enter** – Quick message sending (Shift+Enter for new lines)
+
+### Advanced Features
+- ⌨️ **Typing Animation** – Realistic typing indicator with bouncing dots
+- ✅ **Message Status** – Visual indicators for sent/delivered messages
+- 🎭 **Smooth Animations** – Fluid transitions and micro-interactions
+- 📊 **Chat Statistics** – Message count and session time tracking
+- 🗂️ **Collapsible Panels** – Left sidebar and right info panel
+
+### Responsive Layout
+- 💻 **Desktop**: Three-panel layout (sidebar + chat + info panel)
+- 📱 **Mobile**: Single-panel focus with slide-out menus
+- 📲 **Tablet**: Collapsible panels with touch-friendly controls
+
+---
